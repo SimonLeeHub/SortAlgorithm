@@ -1,0 +1,39 @@
+﻿生成启动时间为 2019/4/3 19:06:41。
+     1>项目“d:\Users\ji.li\Desktop\CProject\SortAlgorithm\SortAlgorithm\SortAlgorithm\SortAlgorithm.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         D:\Visual Studio 2012\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\SortAlgorithm.pch" /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt BubbleSort.cpp BucketSort.cpp CountingSort.cpp HeapSort.cpp InsertionSort.cpp MergeSort.cpp QuickSort.cpp RadixSort.cpp SelectionSort.cpp ShellSort.cpp SortAlgorithm.cpp SortOperation.cpp
+         RadixSort.cpp
+         正在生成代码...
+         正在编译...
+         SortOperation.cpp
+         SortAlgorithm.cpp
+         ShellSort.cpp
+         SelectionSort.cpp
+         QuickSort.cpp
+         MergeSort.cpp
+         InsertionSort.cpp
+         HeapSort.cpp
+         CountingSort.cpp
+         BucketSort.cpp
+         BubbleSort.cpp
+         正在生成代码...
+       Link:
+         D:\Visual Studio 2012\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"d:\Users\ji.li\Desktop\CProject\SortAlgorithm\SortAlgorithm\Debug\SortAlgorithm.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"d:\Users\ji.li\Desktop\CProject\SortAlgorithm\SortAlgorithm\Debug\SortAlgorithm.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"d:\Users\ji.li\Desktop\CProject\SortAlgorithm\SortAlgorithm\Debug\SortAlgorithm.lib" /MACHINE:X86 Debug\BubbleSort.obj
+         Debug\BucketSort.obj
+         Debug\CountingSort.obj
+         Debug\HeapSort.obj
+         Debug\InsertionSort.obj
+         Debug\MergeSort.obj
+         Debug\QuickSort.obj
+         Debug\RadixSort.obj
+         Debug\SelectionSort.obj
+         Debug\ShellSort.obj
+         Debug\SortAlgorithm.obj
+         Debug\SortOperation.obj
+         Debug\stdafx.obj
+         SortAlgorithm.vcxproj -> d:\Users\ji.li\Desktop\CProject\SortAlgorithm\SortAlgorithm\Debug\SortAlgorithm.exe
+     1>已完成生成项目“d:\Users\ji.li\Desktop\CProject\SortAlgorithm\SortAlgorithm\SortAlgorithm\SortAlgorithm.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:01.76

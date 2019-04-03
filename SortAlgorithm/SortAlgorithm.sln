@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "SortAlgorithm", "SortAlgorithm\SortAlgorithm.vcxproj", "{5A85F347-FE37-4CA3-90E8-D0D6E905D5C9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5A85F347-FE37-4CA3-90E8-D0D6E905D5C9}.Debug|Win32.ActiveCfg = Debug|Win32
+		{5A85F347-FE37-4CA3-90E8-D0D6E905D5C9}.Debug|Win32.Build.0 = Debug|Win32
+		{5A85F347-FE37-4CA3-90E8-D0D6E905D5C9}.Release|Win32.ActiveCfg = Release|Win32
+		{5A85F347-FE37-4CA3-90E8-D0D6E905D5C9}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
